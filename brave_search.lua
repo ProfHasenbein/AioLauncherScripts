@@ -1,4 +1,4 @@
--- name = "Brave"
+-- name = "Brave Search"
 -- description = "Search anything in Brave browser"
 -- data_source = "internal"
 -- type = "search"

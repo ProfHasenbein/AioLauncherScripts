@@ -1,4 +1,4 @@
--- name = aiofetch"
+-- name = "aiofetch"
 -- type = "widget"
 -- description = "neofetch-like status information"
 -- author = "ProfHasenbein"
@@ -17,6 +17,8 @@ local icon_arch = [[
         C43.561,43.319,37.306,39.605,28.465,38.611z"/>
 </svg>
 ]]
+
+local lang = ""
 
 local battery_percent = ""
 local battery_temp = ""

@@ -1,3 +1,5 @@
+-- test_script
+
 local icon = [[
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="150" height="150" viewBox="0 0 1024 1024">
