@@ -1,2 +1,2 @@
-ANDROID_SCRIPTS_DIR="/data/data/com.termux/files/home/AioLauncherScripts"
+ANDROID_SCRIPTS_DIR="/sdcard/AioLauncherScripts"
 SCRIPTS_DIR="/home/nibblus/Documents/AioLauncherScripts"

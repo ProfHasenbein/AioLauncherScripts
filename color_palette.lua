@@ -1,6 +1,6 @@
 -- name = "Color Palette"
 -- type = "widget"
--- description = "display yor aio-theme color palette"
+-- description = "display yor Aio-theme color palette"
 -- author = "ProfHasenbein"
 -- version = "1.0"
 

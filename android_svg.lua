@@ -1,4 +1,8 @@
--- test_script
+-- name = "Android SVG"
+-- type = "widget"
+-- description = "Shows the Android logo"
+-- author = "ProfHasenbein"
+-- version = "1.0"
 
 local icon = [[
 <?xml version="1.0" encoding="utf-8"?>
@@ -10,7 +14,6 @@ local icon = [[
 
 function on_resume()
     gui{
-        {"icon", "svg:"..icon, {size = 150}},
-     {"text", "█"}
+        {"icon", "svg:"..icon, {size = 150, gravity = "center_h"}},
     }.render()
 end
