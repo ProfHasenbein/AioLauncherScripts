@@ -3,11 +3,14 @@
 ╠═╣║║ ║  ║  ├─┤│ │││││  ├─┤├┤ ├┬┘  ╚═╗│  ├┬┘│├─┘ │ └─┐
 ╩ ╩╩╚═╝  ╩═╝┴ ┴└─┘┘└┘└─┘┴ ┴└─┘┴└─  ╚═╝└─┘┴└─┴┴   ┴ └─┘
 ```
----
+💡**Note:** I use the JetBrains Mono font and the Material You theme, so your widgets might look slightly different — text spacing and color depend on both.
+
 # Preview
 
+
 ## Widgets
-### [aiofetch](./aiofetch.lua) & [aiofetch V2](./aiofetch_v2.lua)
+
+### [aiofetch](./aiofetch.lua) & [aiofetch V2](./aiofetch_V2.lua)
 ![image](https://github.com/user-attachments/assets/22cf2bc3-895c-4ee1-be4a-709522b34b5a)
 *picture will be added soon*
 
@@ -22,6 +25,7 @@
 
 ### [IP-adress](./ip_adress.lua)
 *picture will be added soon*
+
 
 ## Search scripts
 
